@@ -1,0 +1,16 @@
+header, footer {
+    background-color: black;
+    color: white;
+}
+
+.content img {
+    width: 60%;
+}
+
+.content a {
+    color: black;
+}
+
+.content video {
+    width: 60%;
+}
